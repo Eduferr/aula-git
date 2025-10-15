@@ -61,8 +61,7 @@ Mostra **maturidade técnica** e **compromisso com o ciclo completo de desenvolv
 
 ## 🚀 Conclusão
 
-Um README bem escrito é mais do que um detalhe —  
-é o **reflexo da sua qualidade como desenvolvedor**.  
+Um README bem escrito é mais do que um detalhe — é o **reflexo da sua qualidade como desenvolvedor**.  
 
 Ele transforma seu código em um projeto **profissional, acessível e inspirador.** 🌟
 
